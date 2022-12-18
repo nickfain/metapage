@@ -1,14 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Default React page.
-        </p>
+      <header className="ipfs-image">
+        <img src="https://ipfs.io/ipfs/QmfZHLjsfHgATgavme2rBAEFbZemfuo8994jCYFYZcwByf" />
       </header>
     </div>
   );
