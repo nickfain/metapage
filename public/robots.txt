@@ -1,6 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+User-agent:
+Disallow: *
 
 #TheWorld
 #These are the rules.  When beginning, try taking on only a few of these to avoid becoming overwhelmed.  Taking responsibility for large sets of these should only be undertaken by the most experienced of citizens.  As you progress, you may be unable to manage so many responsibilities at once.  When you find yourself here, take a breath and allow yourself to let go.  You may begin again with a clear conscience.  The number of times you begin matters less than the experiences you have along the way; just remember this is only Practice.  The goal being to gain the ability of self-dicipline of knowing when and how to help both yourself and others in need.
