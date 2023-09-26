@@ -1,3 +1,20 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+#TheWorld
+These are the rules.  When beginning, try taking on only a few of these to avoid becoming overwhelmed.  Taking responsibility for large sets of these should only be undertaken by the most experienced of citizens.  As you progress, you may be unable to manage so many responsibilities at once.  When you find yourself here, take a breath and allow yourself to let go.  You may begin again with a clear conscience.  The number of times you begin matters less than the experiences you have along the way; just remember this is only Practice.  The goal being to gain the ability of self-dicipline of knowing when and how to help both yourself and others in need.
+
+Along your journey, you may find those who take advantage of your kindness.  Reserve judgement and do your best but remember, they are living by the rules they believe to be necessary for survival.  You can show kindness to others while also maintaining your own security, however, no one deserves cruelty, this includes yourself.
+
+The simple act of listening can bring down even the most reenforced of defenses.  Consider two people with opposing views on a certain subject, if both insist their view is correct then neither can achieve understanding.  This is similar to a person asking for help and the one being asked; except the one asking has conceded and is seeking compassion.
+
+We can and should defeat our demons internally with effort focused on mitigating their physical manifestation.  We may see these demons in others or even recognize actions motivated by them; these are not our battles but we may provide guidance, based on our experience, if requested.  However, we must never fight the battles of others as this only serves you and takes from them the enrichment the experience can provide.
+
+I have a feeling that we may benefit as a society if there were an a.i. confessional with a one-way encryption that prevents egress of it's information.  As a society, we can nominate a special group that is  tasked with creating a base or foundation that can serve as our guide to be a more inclusive and understanding person.  I believe this foundation can list and explain human rights, citizen rights, and other basic groupings which have contextual nuance.
+
+This system, that is open to all, would be able to capture these voices and propose enhancements.  This would be a closed-loop system that captures information in real-time and is able to reason what action to take, if any.  For example, it could decide to  notify police that a patrol car should be sent to that person's house as it was determined a dangerous stalker has a high probability of offending within a short timeframe.  If requested, the would-be victim could have cameras installed with a mic where crisis counselors could speak to the assailant live to deescalate the situation.
+
+This system could receive the confessions of murderers and ask questions to form a high-accuracy perspective of the timeline as seen by the confessor.  These activities would be used along with all other injections of information to assist in creating goals for everyone and also arranging any resources needed to assist people until they complete their journey.  These resources can be anything.  You go outside and there is a new bike that appeared overnight.  What you don't know is someone else was on their journey and they received a quest to pickup a fully-paid bike from the store and deliver it to a specific address with additional information for the recipient.
+
+Imagine... anyone, at any time, has purpose available at arms reach.  At times, I may attempt to describe a world but, if I'm being honest it be like if I went looking for the last digit of Pi.  Interestingly, knowing anything is possible is much more potent to the soul.  
